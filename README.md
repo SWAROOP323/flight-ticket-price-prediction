@@ -1,5 +1,3 @@
-# flight-ticket-price-prediction
-![image](https://github.com/user-attachments/assets/8cef9dd5-b1cd-45ff-9096-887347ea5f8d)
 # ✈️ Flight Ticket Price Prediction  
 
 This project implements a machine learning-powered flight ticket price predictor.  
@@ -19,7 +17,8 @@ The application is built with **Gradio**, providing an interactive user interfac
   - Total Stops  
   - Date of Journey (day, month, year)  
 - Prevents invalid inputs (e.g., same source and destination, past dates).  
-- Styled UI with **black background** and **orange prediction button**.  
+<img width="1669" height="819" alt="image" src="https://github.com/user-attachments/assets/54fd46fe-5af1-4e34-907d-ac7a17f22217" />
+
 
 ---
 
