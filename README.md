@@ -16,7 +16,8 @@ The application is built with **Gradio**, providing an interactive user interfac
   - Flight Duration (hours & minutes)  
   - Total Stops  
   - Date of Journey (day, month, year)  
-- Prevents invalid inputs (e.g., same source and destination, past dates).  
+- Prevents invalid inputs (e.g., same source and destination, past dates).
+- 🔗 https://huggingface.co/spaces/SWAROOP323/flight-ticket-price-prediction
 <img width="1669" height="819" alt="image" src="https://github.com/user-attachments/assets/54fd46fe-5af1-4e34-907d-ac7a17f22217" />
 
 
